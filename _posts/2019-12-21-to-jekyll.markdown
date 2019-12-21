@@ -8,5 +8,5 @@ categories: jekyll update
 안녕하세요
 
 ~~~
-유나씨 ㅋㅋ
+테스트 포스팅 페이지입니다.
 ~~~
